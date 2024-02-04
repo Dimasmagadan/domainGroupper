@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Domain Tab Group",
+    "version": "1.0",
+    "description": "Groups all tabs from the current domain into a tab group.",
+    "permissions": ["tabs", "tabGroups", "activeTab"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_icon": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+      }
+    },
+    "icons": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  }
+  
