@@ -4,6 +4,10 @@
 
 DomainGroupper is a browser extension designed to enhance your browsing experience by organizing your tabs. It groups tabs with the same domain into a single group, making it easier to manage multiple tabs and maintain focus on your tasks. This tool is perfect for users who frequently work with numerous tabs and are looking for a way to keep their browser organized and efficient.
 
+### Demo Video
+
+Check out the demo of the plugin in action here: [YouTube Link](https://youtu.be/-e7reQDS9nM)
+
 ## Installation
 
 ### Prerequisites
